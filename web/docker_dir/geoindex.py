@@ -11,7 +11,7 @@ import urllib.parse
 import urllib.request
 # Packages
 import requests
-
+#Test GeoIndex request
 class GeoIndex(object):
     mapping = {
         'naam': 'naam',
